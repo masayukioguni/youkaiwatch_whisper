@@ -16,8 +16,8 @@ angular.module('youkaiwatchWhisperApp')
     ];
 
     $scope.monsters = [
-			{no: 1 ,name: "ぶようじん防" ,rank: "E", place: "団々坂　機械の下",food: "おにぎり", etc: ""},
-			{no: 2 ,name: "がらあきん防" ,rank: "C", place: "おつかい横丁　あんのん団地",food: "おにぎり", etc: "【進化】ぶようじん防がLv.18で進化"},
+			{no: 1 ,name: "ぶようじん坊" ,rank: "E", place: "団々坂　機械の下",food: "おにぎり", etc: ""},
+			{no: 2 ,name: "がらあきん坊" ,rank: "C", place: "おつかい横丁　あんのん団地",food: "おにぎり", etc: "【進化】ぶようじん防がLv.18で進化"},
 			{no: 3 ,name: "さきがけの助" ,rank: "B", place: "団々坂　こひなた通り　機械の下（昼）",food: "おにぎり", etc: ""},
 			{no: 4 ,name: "ダラケ刀" ,rank: "E", place: "おおもり山　廃トンネル　洞窟",food: "ジュース", etc: ""},
 			{no: 5 ,name: "ザンバラ刀" ,rank: "E", place: "さくら中央シティ　工事現場",food: "ジュース", etc: "【進化】ダラケ刀がLv.20で進化"},
